@@ -47,7 +47,7 @@ A:= -D[By, z]UnitVector[3,1] + D[Bx,z]UnitVector[3,2] + D[By,x]UnitVector[3,3]- 
 e:=  Integrate[A, t]
 TeXForm[e])*)
 
-Series[Sinh[x], {x, 0, 5}]
+(*Series[Sinh[x], {x, 0, 5}]*)
 
 
 
